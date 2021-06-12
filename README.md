@@ -4,6 +4,8 @@
 더 좋은 감정분류를 위한 어려 데이터를 통합  
 AI hub 에서 공개하고 있는 감정 데이터를 주로 사용  
 
+AI hub 정책으로 데이터는 미공개 
+
 ## Used Data 
 
 한국어_단발성_대화_데이터셋.xlsx : https://aihub.or.kr/keti_data_board/language_intelligence  
