@@ -1,7 +1,6 @@
 # Merged Data for Korean Emotion Classification 
 
-한국어 감정 분류를 위한 여러 데이터 혼합  
-더 좋은 감정분류를 위한 어려 데이터를 통합  
+한국어 감정 분류를 위한 데이터를 혼합  
 AI hub 에서 공개하고 있는 감정 데이터를 주로 사용  
 
 AI hub 정책으로 데이터는 미공개 
