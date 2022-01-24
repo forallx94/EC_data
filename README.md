@@ -8,7 +8,7 @@ AI hub 정책으로 데이터는 미공개
 ## Used Data 
 
 한국어_단발성_대화_데이터셋.xlsx : https://aihub.or.kr/keti_data_board/language_intelligence  
-한국어_단발성_대화_데이터셋.xlsx : https://aihub.or.kr/keti_data_board/language_intelligence  
+한국어_연속성_대화_데이터셋.xlsx : https://aihub.or.kr/keti_data_board/language_intelligence  
 감정_분류를_위한_대화_음성_데이터셋_4차.csv : https://aihub.or.kr/keti_data_board/language_intelligence  
 감정_분류를_위한_대화_음성_데이터셋_5차.csv : https://aihub.or.kr/keti_data_board/language_intelligence  
 ~~악플_데이터셋.csv : https://github.com/ZIZUN/korean-malicious-comments-dataset~~  
